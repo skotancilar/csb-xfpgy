@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://skotancilar.github.io/csb-xfpgy/static/css/main.5652094b.chunk.css",
+    "main.js": "https://skotancilar.github.io/csb-xfpgy/static/js/main.727bb67b.chunk.js",
+    "main.js.map": "https://skotancilar.github.io/csb-xfpgy/static/js/main.727bb67b.chunk.js.map",
+    "runtime-main.js": "https://skotancilar.github.io/csb-xfpgy/static/js/runtime-main.755bf6ae.js",
+    "runtime-main.js.map": "https://skotancilar.github.io/csb-xfpgy/static/js/runtime-main.755bf6ae.js.map",
+    "static/js/2.31156fba.chunk.js": "https://skotancilar.github.io/csb-xfpgy/static/js/2.31156fba.chunk.js",
+    "static/js/2.31156fba.chunk.js.map": "https://skotancilar.github.io/csb-xfpgy/static/js/2.31156fba.chunk.js.map",
+    "index.html": "https://skotancilar.github.io/csb-xfpgy/index.html",
+    "static/css/main.5652094b.chunk.css.map": "https://skotancilar.github.io/csb-xfpgy/static/css/main.5652094b.chunk.css.map",
+    "static/js/2.31156fba.chunk.js.LICENSE.txt": "https://skotancilar.github.io/csb-xfpgy/static/js/2.31156fba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.755bf6ae.js",
+    "static/js/2.31156fba.chunk.js",
+    "static/css/main.5652094b.chunk.css",
+    "static/js/main.727bb67b.chunk.js"
+  ]
+}
