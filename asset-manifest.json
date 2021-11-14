@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://skotancilar.github.io/csb-xfpgy/static/css/main.de60fd29.chunk.css",
-    "main.js": "https://skotancilar.github.io/csb-xfpgy/static/js/main.b3f1f806.chunk.js",
-    "main.js.map": "https://skotancilar.github.io/csb-xfpgy/static/js/main.b3f1f806.chunk.js.map",
+    "main.css": "https://skotancilar.github.io/csb-xfpgy/static/css/main.3a9fbbdf.chunk.css",
+    "main.js": "https://skotancilar.github.io/csb-xfpgy/static/js/main.ad9f1b13.chunk.js",
+    "main.js.map": "https://skotancilar.github.io/csb-xfpgy/static/js/main.ad9f1b13.chunk.js.map",
     "runtime-main.js": "https://skotancilar.github.io/csb-xfpgy/static/js/runtime-main.755bf6ae.js",
     "runtime-main.js.map": "https://skotancilar.github.io/csb-xfpgy/static/js/runtime-main.755bf6ae.js.map",
-    "static/js/2.bf3e5cc6.chunk.js": "https://skotancilar.github.io/csb-xfpgy/static/js/2.bf3e5cc6.chunk.js",
-    "static/js/2.bf3e5cc6.chunk.js.map": "https://skotancilar.github.io/csb-xfpgy/static/js/2.bf3e5cc6.chunk.js.map",
+    "static/js/2.8fdcd0b0.chunk.js": "https://skotancilar.github.io/csb-xfpgy/static/js/2.8fdcd0b0.chunk.js",
+    "static/js/2.8fdcd0b0.chunk.js.map": "https://skotancilar.github.io/csb-xfpgy/static/js/2.8fdcd0b0.chunk.js.map",
     "index.html": "https://skotancilar.github.io/csb-xfpgy/index.html",
-    "static/css/main.de60fd29.chunk.css.map": "https://skotancilar.github.io/csb-xfpgy/static/css/main.de60fd29.chunk.css.map",
-    "static/js/2.bf3e5cc6.chunk.js.LICENSE.txt": "https://skotancilar.github.io/csb-xfpgy/static/js/2.bf3e5cc6.chunk.js.LICENSE.txt"
+    "static/css/main.3a9fbbdf.chunk.css.map": "https://skotancilar.github.io/csb-xfpgy/static/css/main.3a9fbbdf.chunk.css.map",
+    "static/js/2.8fdcd0b0.chunk.js.LICENSE.txt": "https://skotancilar.github.io/csb-xfpgy/static/js/2.8fdcd0b0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.755bf6ae.js",
-    "static/js/2.bf3e5cc6.chunk.js",
-    "static/css/main.de60fd29.chunk.css",
-    "static/js/main.b3f1f806.chunk.js"
+    "static/js/2.8fdcd0b0.chunk.js",
+    "static/css/main.3a9fbbdf.chunk.css",
+    "static/js/main.ad9f1b13.chunk.js"
   ]
 }
